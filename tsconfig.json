@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"lib": ["ES2019"],
+		"isolatedModules": true,
+		"esModuleInterop": true,
+		"moduleResolution": "Node",
+		"target": "ES2019",
+		"module": "CommonJS",
+		"strict": true,
+		"allowJs": true,
+		"sourceMap": true,
+		"declaration": true,
+		"baseUrl": ".",
+	},
+	"include": ["index.d.ts", "index.js"],
+	"exclude": ["node_modules"]
+}
