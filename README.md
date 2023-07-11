@@ -66,7 +66,7 @@ const { service1, service2, service3 } = provider.begin();
 
   また、追加のパッケージを使うと [Remix](https://remix.run/) (+ express) 環境に `pico-di` を組み込むことができます。
 
-  - `pico-di-remix-express` (WIP)
+  - [`pico-di-remix-express`](https://github.com/ydipeepo/pico-di-remix-express)
 
 ## Installation
 
