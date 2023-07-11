@@ -9,6 +9,9 @@
 
   Tiny DI framework for Node.js & Deno.
 
+  [![npm version](https://badge.fury.io/js/pico-di.svg)](https://badge.fury.io/js/pico-di)
+  [![Socket](https://socket.dev/api/badge/npm/package/pico-di)](https://socket.dev/npm/package/pico-di)
+
 ---
 
   Node.js もしくは Deno に型付きの依存性注入 (DI) サポートを追加し、<br />
